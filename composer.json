@@ -1,0 +1,17 @@
+{
+    "name": "zouma/applelogin",
+    "description": "apple login",
+    "type": "library",
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "Zouma\\Applelogin\\": "sec/"
+        }
+    },
+    "authors": [
+        {
+            "name": "zouma"
+        }
+    ],
+    "require": {}
+}
